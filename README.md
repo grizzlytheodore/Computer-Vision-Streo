@@ -1,4 +1,4 @@
-# Computer-Vision-Streo
+# Computer-Vision-Stereo
 
 One of the big problems that the computer vision field still faces today is streo. 
 Streo is having two different focals points looking at the same things from two slightly different angles 
